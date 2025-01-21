@@ -1,25 +1,71 @@
-<h1>About Me 👋 Hi there! I'm Tejash Soni, a passionate Full-Stack Developer with a knack for building innovative web and mobile applications that solve real-world problems. I specialize in creating seamless user experiences and efficient backend systems using modern technologies.  👨‍💻 What I Do: Frontend Development: React.js, Next.js, React Native Backend Development: Django, Node.js, Express.js Database Management: MongoDB, Firebase, PostgreSQL API Integration: OpenAI, Google Cloud, RESTful APIs Freelance Work: Developed professional websites for local businesses, showcasing modern designs and optimized performance. 🚀 Latest Projects: LinguaAI: An AI-powered Language Learning Companion app leveraging Next.js, OpenAI, and Google Cloud Speech-to-Text. Grading Assistant: A robust web app for grading student submissions with features like bulk grading and AI-powered feedback, built using Django and React. 🌟 Achievements: Built professional freelance projects, including a single-page website for H&E Computer Solutions and an online table booking site for a local cafe. Proficiently worked with MERN stack and Django REST Framework for various personal and academic projects. Published a Workout Tracker App demonstrating React and MongoDB skills. 📚 Learning & Exploring: I'm currently diving deeper into:  Cloud Technologies: Understanding AWS, Azure, and other cloud platforms for app deployment and scalability. Performance Optimization: Improving code efficiency and reducing application load times. DevOps Tools: Exploring CI/CD pipelines, containerization with Docker, and infrastructure as code. 💬 Let's Connect! I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to check out my work or connect with me here: Portfolio: www.tejashsoni.dev</h1>
-<p></p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a></p>
+# 👋 About Me 
+
+Hi there! I'm **Tejash Soni**, a passionate **Full-Stack Developer** who loves crafting innovative web and mobile applications that solve real-world problems. My expertise lies in designing seamless user experiences and building efficient, scalable backend systems. 🚀
+
+---
+
+## 👨‍💻 What I Do
+
+- **Frontend Development**: React.js, Next.js, React Native  
+- **Backend Development**: Django, Node.js, Express.js  
+- **Database Management**: MongoDB, Firebase, PostgreSQL  
+- **API Integration**: OpenAI, Google Cloud, RESTful APIs  
+- **Freelance Work**: Delivered professional websites for businesses, focusing on performance, functionality, and modern design.
+
+---
+
+## 🚀 Latest Projects
+
+### 🔹 [LinguaAI](#)
+An **AI-powered Language Learning Companion app** that provides real-time grammar, vocabulary, and pronunciation feedback. Built using **Next.js**, **OpenAI**, and **Google Cloud Speech-to-Text**, this project enhances language learning experiences for users.
+
+### 🔹 [Grading Assistant](#)
+A robust **web app** for grading student submissions with features like **bulk grading**, **AI-powered feedback**, and PDF support. Developed with **Django** and **React**, it streamlines the grading process for educators.
+
+---
+
+## 🌟 Achievements
+
+- Created professional websites for businesses, including **H&E Computer Solutions** and a **cafe with online table booking** functionality.
+- Developed and deployed multiple **MERN stack** applications, showcasing full-stack proficiency.
+- Published a **Workout Tracker App**, leveraging **React** and **MongoDB** for efficient data handling.
+
+---
+
+## 📚 Learning & Exploring
+
+I'm currently diving deeper into:
+- **Cloud Technologies**: AWS, Azure, and scalable app deployment.
+- **Performance Optimization**: Crafting efficient code and reducing load times.
+- **DevOps Tools**: Exploring CI/CD pipelines, Docker, and Kubernetes.
+
+---
+
+## 💻 Languages and Tools
+
+<p align="center">
+<a target="_blank" href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
+<a target="_blank" href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+<a target="_blank" href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
+<a target="_blank" href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50"/></a>
+<a target="_blank" href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/></a>
+<a target="_blank" href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/></a>
+<a target="_blank" href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/></a>
+<a target="_blank" href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a>
+<a target="_blank" href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a>
+<a target="_blank" href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/></a>
+<a target="_blank" href="https://graphql.org/"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="50" height="50"/></a>
+<a target="_blank" href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/></a>
+<a target="_blank" href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50"/></a>
+<a target="_blank" href="https://www.getpostman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/></a>
+</p>
+
+---
+
+## 💬 Let's Connect
+
+I'm always open to collaborating on exciting projects or brainstorming innovative ideas. Let's connect and make something amazing together! 🚀
+
+- **Portfolio**: [tejashsoni.dev](https://www.tejashsoni.dev)
+
+---
